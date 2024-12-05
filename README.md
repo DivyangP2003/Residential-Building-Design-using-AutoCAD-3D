@@ -1,2 +1,6 @@
 # Residential-Building-Design-using-AutoCAD-3D
-Comprehensive architectural drawings, including precise floor plans, elevation views, and sectional details, using AutoCAD 3D for a G+1 residential building. Constructed an accurate and detailed 3D model to visualize design elements, ensuring alignment with project requirements.
+Showcases the architectural design of a G+1 residential building using AutoCAD 3D. It includes:
+1) Detailed floor plans, elevation views, and sectional drawings.
+2) A realistic 3D model for visualization and presentation.
+3) Precise measurements and material specifications adhering to construction standards and regulatory requirements.
+The repository serves as a comprehensive demonstration of architectural drafting and 3D modeling skills, emphasizing accuracy, technical proficiency, and design visualization.
